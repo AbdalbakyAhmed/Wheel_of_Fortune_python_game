@@ -1,6 +1,6 @@
 # Wheel_of_Fortune_python_game
 
-* If you don't know the game, you have to read Rules_of_the_game.txt 
+* If you don't know the game, you have to read text file "Rules_of_the_game". 
 
 #### The game continues until the entire phrase is revealed (or one player guesses the complete phrase)
 
